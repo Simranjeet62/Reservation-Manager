@@ -1,0 +1,28 @@
+{
+  "reservations": [
+    {
+      "name": "Simranjeet",
+      "guests": "2",
+      "room": "deluxRoom",
+      "checkIn": "2024-09-07",
+      "checkOut": "2024-09-09",
+      "id": "2012"
+    },
+    {
+      "id": "f24e",
+      "name": "Simranjeet",
+      "guests": "2",
+      "room": "deluxRoom",
+      "checkIn": "2024-09-05",
+      "checkOut": "2024-09-06"
+    },
+    {
+      "id": "7d5e",
+      "name": "admin",
+      "guests": "2",
+      "room": "deluxRoom",
+      "checkIn": "2024-09-12",
+      "checkOut": "2024-09-13"
+    }
+  ]
+}
